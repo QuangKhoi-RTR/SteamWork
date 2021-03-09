@@ -1,10 +1,9 @@
 # SteamWork
 <div align='center'>
-    <img src="./img/steamwork.png" width="50%">
+    <img src="./img/steamwork.png" width="30%">
 </div>
 
 # STEAMWORK SHOP
-
 ## Contents
 - [Introduction](#introduction)
 - [Caterogy](#category)

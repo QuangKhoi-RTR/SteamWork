@@ -4,11 +4,6 @@
 </div>
 
 # STEAMWORK SHOP
-
-## Management
-- [Product Manufacturing](#./doc/PM.md)
-- [Orders](#./doc/Orders.md)
-
 ## Contents
 - [Introduction](#introduction)
 - [Caterogy](#category)

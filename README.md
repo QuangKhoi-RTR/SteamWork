@@ -6,8 +6,8 @@
 # STEAMWORK SHOP
 
 ## Management
-- [Product Manufacturing](#./doc/PM.md)
-- [Orders](#./doc/Orders.md)
+- [Product Manufacturing](./doc/PM.md)
+- [Orders](./doc/Orders.md)
 
 ## Contents
 - [Introduction](#introduction)

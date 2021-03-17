@@ -28,7 +28,7 @@ Hiện tại shop có 3 nhóm sản phẩm:
 | 1 | Plant Hobby | PL21- | Văn phòng, nội trợ | Nhóm sản phẩm cho thú vui trồng cây |
 | 2 | Wine Lover | W21- | General | Nhóm sản phẩm cho người yêu thích rượu vang |
 | 3 | Ornithopter | OH21- | Trẻ em, hobbyist | Nhóm sản phẩm máy bay cánh đập cho người thích máy bay mô hình, trẻ em. |
-
+| 4 | Househhold appliances | HA21- | Văn phòng, nội trợ | Nhóm sản phẩm đồ gia dụng |
 ## Product list
 | No.| Name | ID | Category | Price | Công dụng |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -37,7 +37,7 @@ Hiện tại shop có 3 nhóm sản phẩm:
 | 3 | Planter 03 | PL21-003 | Plant Hobby | 50-100k | Chậu trồng cây mini hình gốc cây |
 | 4 | Wine holder 01 | W21-001 | Wine Lover | 250 - 500k | Gá trưng rượu |
 | 5 | Máy bay cánh đập mk1 | OH21-001 | Aircraft Hobby | 750-1000k | Chim cánh đập điều khiển từ xa |
-
+| 6 | Khuôn làm nem nướng | HA21-001 | Household appliances | 50-100k | Khuôn làm nem nướng |
 ## Selling channels
 | Kênh | Mô tả | Nhân sự | Ghi chú |
 |:-:|:-:|:-:|:-:|

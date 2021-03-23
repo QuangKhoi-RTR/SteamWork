@@ -41,13 +41,13 @@ Hiện tại shop có 3 nhóm sản phẩm:
 ## Selling channels
 | Kênh | Mô tả | Nhân sự | Ghi chú |
 |:-:|:-:|:-:|:-:|
-| 1 | Shopee | `Khôi` , `Trâm` | N/A |
-| 2 | Facebook | `Khôi` , `Trâm` | Người quen |
+| 1 | Shopee | `Khôi` | N/A |
+| 2 | Facebook | `Khôi`| Người quen |
 
 ## Phases
 | Giai đoạn | Mô tả | Thời lượng (tuần) | Thời gian bắt đầu | Nhân sự | Ghi chú |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 1 | Thiết lập shop ở các kênh và tạo sản phẩm | 2 | | `Khôi` , `Trâm` |  |
+| 1 | Thiết lập shop ở các kênh và tạo sản phẩm | 2 | | `Khôi`  |  |
 | 2 | Sản xuất mỗi sản phẩm x5 | 2 |  | `Khôi` |  |
-| 3 | Release local marketing | 2 | | `Trâm` |  |
+| 3 | Release local marketing | 2 | | `N/A` |  |
 
